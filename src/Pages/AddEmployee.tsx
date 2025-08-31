@@ -115,7 +115,7 @@ const AddEmployee: React.FC = () => {
     >
       <Grid size={{ xs: 12, md: 6 }}>
         <Typography variant="h5" align="center" gutterBottom>
-          Add Employee
+          {id ? 'Edit' : 'Add'} Employee
         </Typography>
         <Grid marginBottom={2}>
           <Button
