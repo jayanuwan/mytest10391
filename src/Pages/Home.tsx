@@ -27,12 +27,12 @@ const HomePage: React.FC = () => {
 
   const columns: any[] = [
     { field: 'id', headerName: 'ID', width: 90 },
-    { field: 'firstName', headerName: 'First name', width: 150 },
-    { field: 'lastName', headerName: 'Last name', width: 200 },
-    { field: 'email', headerName: 'Email address', width: 200 },
-    { field: 'phoneNumber', headerName: 'Phone number', width: 200 },
-    { field: 'gender', headerName: 'Gender', width: 200 },
-    { field: 'dob', headerName: 'Date of Birth', width: 200 },
+    { field: 'firstName', headerName: 'First name' },
+    { field: 'lastName', headerName: 'Last name' },
+    { field: 'email', headerName: 'Email address' },
+    { field: 'phoneNumber', headerName: 'Phone number' },
+    { field: 'gender', headerName: 'Gender' },
+    { field: 'dob', headerName: 'Date of Birth' },
     { field: 'joinedDate', headerName: 'Joined Date', width: 200 },
     {
       field: 'actions',

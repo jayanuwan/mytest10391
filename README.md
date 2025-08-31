@@ -14,10 +14,12 @@ For Unit test
 
 ### npm test
 
-#### HomePage locate employee data grid
+##### HomePage locate employee data grid
 
-#### Add and Edit manage via same page
+##### Add and Edit manage via same page
 
-#### Used react hook form | MUI | Local Storage data
+##### Used react hook form | MUI | Local Storage data
 
-#### Jest unit test and include coverage reports
+##### Jest unit test and include coverage reports
+
+Jayanuwan Ediriwickramasooriya
